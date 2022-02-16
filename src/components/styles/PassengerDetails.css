@@ -1,0 +1,18 @@
+.flight-details{
+    margin-left:20%;
+    margin-top: 5%;
+    width: 20%;
+    height: 15%;
+    border-radius: 5%;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.flight-details-label{
+    margin-left: 1%;
+    font-size: 28px;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    font-style: oblique;
+    font-weight: bold;
+}

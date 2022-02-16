@@ -1,0 +1,12 @@
+.main-container{
+    padding-left: 40%;
+    padding-top: 10%;
+    width: 20%;
+    height: 25%;
+}
+
+.header{
+    font-size: 26px;
+    font-weight: 400;
+    font-family: system-ui;
+}
